@@ -1,0 +1,22 @@
+{
+    "result": {
+        "iotapplication": {
+            "things": [],
+            "rulesdata": {
+                "node_model": {
+                    "freeboardDesc": "",
+                    "freeboardId": "5e2cc1c5cff811e7a12a1b67d4397ace",
+                    "noderedId": "5e2c73a9cff811e78873b1246a20a4aa",
+                    "version": 1,
+                    "ruleName": "Rule_雲端開關",
+                    "freeboardName": "Dashboard_雲端開關",
+                    "ruleDesc": ""
+                },
+                "rules": "H4sIAAAAAAAAA8VW227jNhD9FUF9lWWJoiQqaVogt7bAJkHXzkMRBwtKGtlCZNErUkm8QZ7bP+1vdEjfZOfeAlv5QZ7hcGbO8AxHVw92mdt7NgmS0IsD7rIo4hGzHVvNZ4ALiqcoVDyFCqXTStxZvv3orLfFQNOscElCE0I329ryS8olaMUEpqh5sGs+NQ613KvK8URpx/o9XJnkUPC2Umj1g+cl9OgELbSbI1GJ5on2VNTatMdnswp6ci4VTJ3Dqqxvzng2MKI2cQYwFmBd/uZ8FqlQwrm4n4+h7g14LZ3LtK1V6xzxWvEGqsr5FapbUGXGrXNowZFo1JPQlAUGhbxUgLBVgyt2AxIwfsErCY+OnfPm5lkgSUzj5AmQrvZ/A7LKPWulEtPhzkld1qpUFeSWWcBjd7q46GGcBN4uri3td8b1uCTbQHFlcOgcetkitefJdcurFrY0u6WZ8TH0TB1S3vRSnt2MG9HW+dHK7TtdvLaz4Pr30k5Z5m/GLszzjAe9YdZTcK+ebvLT9LVNqWhyaD4c61+leVfmY1Av5Wmel3e9dSgZvLL3oyANpwpD7I35d2P4I2YgS9Xt0nORQ+/zybF1zOUkFbzJMesJcmYoRIW8QROTO2p5hdf34K40N/RKmWOznIpmynVnHB/3z876f+Bj60DfQOpI8t7eowwV88V7jHKEr7l5ZQspW0gzlDx8oeTpdJeDAhjz/DhzOQ6MHNjWoFiMmCWcIU/NTVNmokYx74AyR2Xv+RunhPsB5cyFIkqTjtOJUjOrrFHx7dnZtoz1959/odA2erL1Py0n0hTURGjvSA9dhDs+HkNzLDJUoYzw4tCxEV4YaxY1ukRXV7ZPc0byNHWpn5KIoGXgJSROuZvmWcIZta+v14k/NV4mjp3ejt9KW59kpspbWE0iLJUUVfdQMzFFQqquChMnMTGZR2ST+SapyIujAsLUDfMoCHeKicYzjALvyA0DMY+6nucRL2EeC2gSmbCERVrrBV7ox2HM/Oey2K3aOg15V6ps8o74s0bMoFEYEO/PeSV47g5We1drw4XPqdTFbtrKJPFg6xaAr3ou4B+h+XOrVVI15pNne9lcD5v1a6z6BLIbbDL9lYMHoynbqlmr0DkxdaEkNpXw46DLnSSjUUrTyKVAKGX2tXNlF3kYMpbFLpbDZ6zLnl3z3ZP62oJUbxXK0P2i7hL+l5Ohrob+qLHVvVq3hp8Q14+Y67tJ3L84/6LbU1VyfdpInAUqwrqoYu77URTmbuGTLN5CsAvuPyAwp/BBCKenuxDChC4oSsJ3QthdWkMo2hqbU7x5+ShhZXyKst6w4KK75Kt1YI3qkf0jwuKWLkkPK1LeHoxGI8RWYHYT/dfCvldQK6P39xHpgTbe6/c3cGmMzci8Pg4o2f/9cnB4xKekLyc4adxsXP4s8eviIApYkPg00H5+Gtn7oxor2Da1hTntd1mMHVsLaBpzxZubUMeJYi/yWEiwrRc8YNSNUItNThKSRGyLFjvXDJb0+h9Q0huyhQwAAA==",
+                "dashboard": "H4sIAAAAAAAAA61Ty26jQBD8l774QiIwfoXrRtHmksvmZlmoDQ1uaWDIPOJEFv+037BflmmME7TxYQ97gZmqftRUz5yA7a8DGoKsQmUpglcylnULWRIBKqWPOZXsIHPGB7ZTvubWQrbdhQ22JMsTHLl0hyHF6CNkJ4iHTRq+fQSFViMWT7H8KyusanLnWu69C2qgRl8TRGDJOW5rKxUcOyXcPdrDXqMpA/+KygtWokOrvSnIbmefAbPddjZEzHYh1rcsTeDP7x9h13CbX7JvFrEg+PaJJPMlBJ2GzkWlfWV0E5hWl2RIep9lcynt98u4iher23K1wjRwY9SjkEuaF+sU74qq2iQJrTebdbpP5osVzmNcIIZwOXXeYvP38Uq2ncL3qxTZwnDnhmlBAF5Yu/wi+JLxTE1HBp039E9njgYnRY449aA0um/Ofc0kzGvsM/y+6X06o+NMHb1JMUMvnsXB4VL1u74Pl4ntQ7D3afR2ZKLpWKfdpj6MxafQfxZ4Vd1l/I9Xx8/2J1unDRfjy5Iq4dL7Rl5P2n8Ai+crn3kDAAA="
+            },
+            "description": "",
+            "appname": "雲端開關"
+        }
+    }
+}
